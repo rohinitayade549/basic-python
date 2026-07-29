@@ -34,3 +34,5 @@ if __name__ == "__main__":
 	p = Person("Alice", 30)
 	p.greet()
 
+
+return 0;
